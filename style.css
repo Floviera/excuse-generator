@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://bit.ly/2yt3T8L");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+p {
+    color: white; 
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 70px; 
+    text-align: center; 
+}
+
+#button {
+    background: #999;
+    border: 2px solid #333;
+    color: #333;
+    font-size: 25px;
+    padding: 1em 2em;
+    cursor: pointer;
+    margin: 0 auto 60px;
+    display: block;
+    text-align: center;
+    border-radius: 6px;
+    font-weight: bold;
+    font-family: 'Gloria Hallelujah', cursive;
+}
