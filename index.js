@@ -1,24 +1,24 @@
 function unLoad() {
 
     const who = [
-        'the dog',
-        'my granma',
-        'his turtle',
+        'my dog',
+        'my grandma',
+        'a car',
         'my bird'
     ]
 
     const what = [
-        'eat',
+        'ate her sock',
         'pissed',
-        'crushed',
-        'broked'
+        'fell',
+        'pooped'
     ]
 
     const when = [
         'before the class',
-        'right in time',
-        'when I finished',
-        'during my lunch',
+        'when I woke up',
+        'when I was waking up',
+        'while I was eating lunch',
         'while I was praying'
     ]
 
